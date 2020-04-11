@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="folder-player">
+	<schema id="com.github.latesil.folder-player" path="/com/github/latesil/folder-player/">
+	</schema>
+</schemalist>
