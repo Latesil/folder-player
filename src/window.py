@@ -22,7 +22,5 @@ from gi.repository import Gtk
 class FolderPlayerWindow(Gtk.ApplicationWindow):
     __gtype_name__ = 'FolderPlayerWindow'
 
-    label = Gtk.Template.Child()
-
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
