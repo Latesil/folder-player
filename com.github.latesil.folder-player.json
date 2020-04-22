@@ -29,7 +29,7 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "file:///var/home/late/Projects/folder-player"
+                    "url" : "file:///home/late/Projects/folder-player"
                 }
             ]
         }
